@@ -1,6 +1,5 @@
 ### AnyKernel3 Ramdisk Mod Script
 ## osm0sis @ xda-developers
-# blu_spark changes by eng.stk
 
 ### AnyKernel setup
 # global properties
